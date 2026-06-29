@@ -1,2 +1,2 @@
-# Hamhosh
-PCB desgin and schamric of OrangePi5Plus
+# HooshPiHardware
+PCB design and schamatic of Orange-Pi 5 Plus
